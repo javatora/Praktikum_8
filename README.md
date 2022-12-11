@@ -11,6 +11,6 @@
 
 ![image](https://user-images.githubusercontent.com/115475424/206881046-121a8c41-1726-4804-bd78-79794c8d4546.png)
 
-2. masukan codingan sebagai berikut di file Praktikum.py :
+2. masukan codingan sebagai berikut di file oop.py :
 
 
